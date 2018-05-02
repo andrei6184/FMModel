@@ -20,3 +20,8 @@ project/plugins/project/
 build.sbt
 project/
 src/test/
+*.jar
+!data/ml-100k
+!data/data-processing.ipynb
+!models/ml-100k.md
+!models/ml-100k.fm
